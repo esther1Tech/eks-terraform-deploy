@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env*
+*.tfstate*
+node_modules/
+target/
